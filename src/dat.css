@@ -1,0 +1,24 @@
+.xuandat{
+    background-color: aqua;
+    padding: 10px 20px;
+    margin: 20vh;
+    align-items: center;
+    justify-content: center;
+    opacity: 1.2ms;
+}
+p{
+    color: red;
+    box-shadow: 10px 20px 30px;
+    transition: 200ms;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: blue;
+    text-shadow: 10px 20px 30px;
+    color: red;
+    transition-delay: calc(10px 20px 30px);
+}
+h1:hover{
+    background-color: brown;
+}

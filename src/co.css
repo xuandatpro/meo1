@@ -1,0 +1,27 @@
+.couter{
+    width: 100%;
+    background-color: aqua;
+    box-sizing: border-box;
+    outline: hidden;
+}
+h3{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 10px;
+    opacity: 1.2s;
+    color: rgb(168, 30, 30);
+    transition: 100ms;
+    top:10px;
+    height: 20px;
+    position: relative;
+    
+}
+button{
+    width: 100px;
+    height:20px;
+    border-radius: 200px;
+    transition: 100ms;
+    background-color: aqua;
+    color: red;
+    
+}
